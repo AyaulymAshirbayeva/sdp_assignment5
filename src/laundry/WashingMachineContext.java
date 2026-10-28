@@ -1,5 +1,4 @@
 package laundry;
-
 import laundry.strategies.WashInterface;
 
 public class WashingMachineContext {
